@@ -9,8 +9,8 @@ This project is a simple profile page that fetches data from a GraphQL endpoint 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/antmusumba/graphql.git
+    cd graphql
     ```
 
 2.  **Open `scripts.js` and configure the API endpoints:**
